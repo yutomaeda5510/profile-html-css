@@ -1,2 +1,10 @@
-# profile-HTML-CSS
-HTML/CSSで作成した自己紹介ページ
+# profile
+
+自己紹介ページ
+
+URL:https://yutomaeda5510-profile.netlify.com
+
+## Tec
+
+- HTML
+- CSS
