@@ -1,10 +1,8 @@
 # profile-html-css
 
-自己紹介ページ
+[自己紹介ページ](https://yutomaeda5510-profile-html-css.netlify.app)
 
-URL:https://yutomaeda5510-profile-html-css.netlify.app
-
-## Tec
+## 🎓 tec
 
 - HTML
 - CSS
